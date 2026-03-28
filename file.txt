@@ -23,6 +23,9 @@ landing.html.
 3. In templates/landing.html, update the "Terms and Conditions"
 footer link href from "#" to "/terms".
 
+Make sure that the templates/terms.html page matches with the 
+website's theme.
+
 git commit -m "landing: add terms and conditions page and route”
 
 Do the same as you did for the Terms and Conditions page,
